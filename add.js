@@ -18,4 +18,5 @@ module.exports = function (db) {
             type: "Food",
             description: "Staple item in every pantry"
         }])
+        console.log("ADD DONE")
 }
